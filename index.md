@@ -1,5 +1,7 @@
 # Madhav Cherupilil Sajeev
 
+<img src="/profile.jpeg" width="200" alt="Madhav C S">
+
 ## About Me
 
 I am a PhD student in Computer Science at Montana State University, where I am grateful to be advised by Brittany Terese Fasy.
