@@ -12,6 +12,8 @@ Prior to this, I completed the Parisian Master of Research in Computer Science (
 
 I received a B.Sc. (Honours) degree in Mathematics and Computer Science from the Chennai Mathematical Institute. During my undergraduate studies, I was fortunate to work with Siddharth Pritam, who introduced me to the fascinating field of applied and computational topology.
 
+[Curriculum Vitae](Curriculum Vitae.pdf)
+
 ## Research Interets 
 
 My research interets lie in Applied and Computational Topology/Geometry and its applications. 
