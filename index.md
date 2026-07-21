@@ -23,3 +23,8 @@ My research interets lie in Applied and Computational Topology/Geometry and its 
 **Filtration-Based Representation Learning for Temporal Graphs**  
 Samrik Chowdhury, Siddharth Pritam, Rohit Roy, Madhav Cherupilil Sajeev.  
 [[arXiv]](https://arxiv.org/abs/2502.10076)
+
+## Contact
+
+- Email: [m.cherupililsajeev@student.montana.edu](mailto:m.cherupililsajeev@student.montana.edu)
+- GitHub: https://github.com/madhavcs123-ops
